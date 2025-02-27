@@ -1,5 +1,5 @@
 <template>
-    <button :class="computedClass"><slot /></button>
+    <button> opids fs</button>
   </template>
   
   <script lang="ts">
